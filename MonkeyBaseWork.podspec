@@ -50,7 +50,6 @@ Pod::Spec.new do |s|
   end
  
 
-  s.dependency 'AFNetworkingTask' , '1.1'
   s.dependency 'RDVTabBarController', '1.1.9'
   s.dependency 'MJRefresh', '3.1.1' 
   s.dependency 'Masonry', '1.0.1'
