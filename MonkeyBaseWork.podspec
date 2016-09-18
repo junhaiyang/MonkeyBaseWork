@@ -55,7 +55,7 @@ Pod::Spec.new do |s|
   s.dependency 'Masonry', '1.0.2'
   s.dependency 'DZNEmptyDataSet', '1.8.1'
   s.dependency 'DSAlertView-Blocks', '1.1.2'
-  s.dependency 'MBProgressHUD', '1.0.0
+  s.dependency 'MBProgressHUD', '1.0.0'
    
  
 end
