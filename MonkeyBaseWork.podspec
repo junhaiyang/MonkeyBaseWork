@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
  
 
   s.name         = "MonkeyBaseWork"
-  s.version      = "1.1"
+  s.version      = "1.1.1"
   s.summary      = "MonkeyBaseWork Sample Task....."
  
 
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.ios.framework = 'UIKit'
  
-  s.source = { :git => 'https://github.com/junhaiyang/MonkeyBaseWork.git' , :tag => '1.1'} 
+  s.source = { :git => 'https://github.com/junhaiyang/MonkeyBaseWork.git' , :tag => '1.1.1'} 
  
   s.requires_arc = true
 
@@ -51,11 +51,11 @@ Pod::Spec.new do |s|
  
 
   s.dependency 'RDVTabBarController', '1.1.9'
-  s.dependency 'MJRefresh', '3.1.1' 
-  s.dependency 'Masonry', '1.0.1'
+  s.dependency 'MJRefresh', '3.1.12' 
+  s.dependency 'Masonry', '1.0.2'
   s.dependency 'DZNEmptyDataSet', '1.8.1'
   s.dependency 'DSAlertView-Blocks', '1.1.2'
-  s.dependency 'MBProgressHUD', '0.9.2'
+  s.dependency 'MBProgressHUD', '1.0.0
    
  
 end
